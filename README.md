@@ -5,6 +5,7 @@ Sistema de facturación de energía eléctrica desarrollado en COBOL con lectura
 Este proyecto consiste en el desarrollo de un sistema de facturación de energía eléctrica utilizando **COBOL**, con almacenamiento y lectura de datos mediante archivos **CSV** y **TXT**. El objetivo es simular una aplicación real de negocio como parte de un aprendizaje práctico en desarrollo de software legacy.
 
 ---
+🔗 [Ver enunciado del proyecto](docs/enunciado.md)
 
 ## 🎯 Objetivos de Aprendizaje
 
